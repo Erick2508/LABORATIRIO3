@@ -1,9 +1,6 @@
 # ANÁLISIS DE NODOS
 ![11](https://user-images.githubusercontent.com/75336529/122152632-326d4380-ce27-11eb-9d90-cc9037899602.PNG)
 
-
-![8](https://user-images.githubusercontent.com/75336529/122152620-300ae980-ce27-11eb-9036-5d2af25334b8.png)
-![9](https://user-images.githubusercontent.com/75336529/122152624-30a38000-ce27-11eb-8ab7-ebd97280229d.png)
 **1.-OBJETIVOS**
 
 General
@@ -29,7 +26,6 @@ Especificos
 
 **3.2.- Procedimiento**
 
-
 ![10](https://user-images.githubusercontent.com/75336529/122152628-326d4380-ce27-11eb-95b8-fdb02e8a78b1.PNG)
 
 **3.2.1.-Implemente el circuito que se presenta en la figura 3.1.**
@@ -51,6 +47,10 @@ Especificos
 ![7](https://user-images.githubusercontent.com/75336529/122152611-2d0ff900-ce27-11eb-8f6b-904a043e39de.png)
 
 **3.2.3.-Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.**
+
+![8](https://user-images.githubusercontent.com/75336529/122152620-300ae980-ce27-11eb-9036-5d2af25334b8.png)
+
+![9](https://user-images.githubusercontent.com/75336529/122152624-30a38000-ce27-11eb-8ab7-ebd97280229d.png)
 
 **3.2.4.-Compare los valores de la tabla 3.1 y realice sus conclusiones.**
 
