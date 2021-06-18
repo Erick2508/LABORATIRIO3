@@ -9,6 +9,8 @@ Especificos
 
 **2.-MARCO TEÓRICO**
 
+![12](https://user-images.githubusercontent.com/75336529/122501786-01257c80-cfbb-11eb-860e-ca0b8f38f3fc.jpeg)
+
 **3.-EXPLICACIÓN DEL PROCEDIMIENTO**
 
 3.1.-Materiales y equipo
@@ -58,22 +60,29 @@ tabla 3.1: Resultados obtenidos de la  figura 3.1.
 
 |NODO|RESULTADO ANÁLITICO|RESULTADOS EXPERIMENTALES|RESULTADOS SIMULADOS|
 |---|---|---|---|
-|UNO||||
-|DOS||||
-|TRES||||
+|UNO||5.10mA|5.10mA|
+|DOS||2.13mA|2.13mA|
+|TRES|0|0|0|
 
 **4.-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 4.1.-Cálculos realizados
 
-Cálculo del error
+4.2.-Cálculo del error
 
 **5.-VIDEO**
 
-Vide: 
+Video: https://www.youtube.com/watch?v=1_KbebWMmQk
 
 **6.-CONCLUSIONES**
 
+•	Aprendimos a identificar nodos en cualquier circuito que nos presenten siguiendo las características requeridas de el mismo.
+
+•	Es claro que debemos tener en cuenta las características de los nodos y también el saber aplicar bien nuestras formulas para obtener lo requerido.
+
+•	Ciertamente aplicamos lo aprendido en clases como en el caso de este laboratorio a como obtener la corriente en los nodos que se presentan en nuestro circuito.
+
+•	Concluimos viendo como se comporta la corriente en cada nodo dependiendo de nuestras fuentes y resistencias.
 
 **7.-BIBLIOGRAFIA**
 
