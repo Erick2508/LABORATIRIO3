@@ -5,7 +5,13 @@
 
 General
 
+Analizar, voltajes y corrientes mediante el análisis de nodos, la cual es demostrado por medio de cálculos.
+
 Especificos
+
+-Calcular las corrientes de los circuitos eléctricos aplicando método de nodos
+
+-Demostrar los datos teóricos calculados con datos prácticos.
 
 **2.-MARCO TEÓRICO**
 
@@ -68,6 +74,8 @@ tabla 3.1: Resultados obtenidos de la  figura 3.1.
 
 4.1.-Cálculos realizados
 
+![13](https://user-images.githubusercontent.com/75336529/122506287-a5132600-cfc3-11eb-9b51-530b30d54658.png)
+
 4.2.-Cálculo del error
 
 **5.-VIDEO**
@@ -86,4 +94,7 @@ Video: https://www.youtube.com/watch?v=1_KbebWMmQk
 
 **7.-BIBLIOGRAFIA**
 
+Ley de corriente de Kirchhoff: Análisis de nodos - Panama Hitek. (2021). Rvisado 16 junio 2021, extraido de: http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/
+
+▷ Teorema de Nodos 【 Análisis Paso a Paso 】✔. (2021). Revisado 16 junio 2021, extraido https://mielectronicafacil.com/analisis-de-circuitos/teorema-de-nodos/
 
