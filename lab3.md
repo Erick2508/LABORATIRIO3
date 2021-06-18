@@ -76,7 +76,23 @@ tabla 3.1: Resultados obtenidos de la  figura 3.1.
 
 ![13](https://user-images.githubusercontent.com/75336529/122506287-a5132600-cfc3-11eb-9b51-530b30d54658.png)
 
+![14](https://user-images.githubusercontent.com/75336529/122515080-89fbe280-cfd2-11eb-9ede-18870e964e9a.PNG)
+
+![15](https://user-images.githubusercontent.com/75336529/122515087-8b2d0f80-cfd2-11eb-867e-59b94da8c90b.PNG)
+
+![16](https://user-images.githubusercontent.com/75336529/122515063-849e9800-cfd2-11eb-936b-c5a4c5a3e345.PNG)
+
+![17](https://user-images.githubusercontent.com/75336529/122515069-85cfc500-cfd2-11eb-83ed-0dbcf5a4462f.PNG)
+
 4.2.-Cálculo del error
+
+NODO 1
+
+![18](https://user-images.githubusercontent.com/75336529/122515074-88321f00-cfd2-11eb-8ede-513200ef00c1.PNG)
+
+NODO 2 
+
+![19](https://user-images.githubusercontent.com/75336529/122515076-88cab580-cfd2-11eb-84f7-e33d07c3079e.PNG)
 
 **5.-VIDEO**
 
