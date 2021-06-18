@@ -66,15 +66,15 @@ tabla 3.1: Resultados obtenidos de la  figura 3.1.
 
 |NODO|RESULTADO ANÁLITICO|RESULTADOS EXPERIMENTALES|RESULTADOS SIMULADOS|
 |---|---|---|---|
-|UNO||5.10mA|5.10mA|
-|DOS||2.13mA|2.13mA|
+|UNO|5.095mA|5.10mA|5.10mA|
+|DOS|2.097|2.13mA|2.13mA|
 |TRES|0|0|0|
 
 **4.-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 4.1.-Cálculos realizados
 
-![13](https://user-images.githubusercontent.com/75336529/122506287-a5132600-cfc3-11eb-9b51-530b30d54658.png)
+![13](https://user-images.githubusercontent.com/75336529/122517125-45be1180-cfd5-11eb-8e35-514b64a83cbb.png)
 
 ![14](https://user-images.githubusercontent.com/75336529/122515080-89fbe280-cfd2-11eb-9ede-18870e964e9a.PNG)
 
